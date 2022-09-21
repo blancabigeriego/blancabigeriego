@@ -1,16 +1,24 @@
-### Hi there 👋
+# **HELLO WORLD**
 
-<!--
-**blancabigeriego/blancabigeriego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Blanca, I´m a 32 years young woman from Valladolid (Spain).
+I have always had a curious nature and I am always looking for new challenges to learn new skills.
+I started my adventure in web developing at the *ADALAB WEB DEVELOPING BOOTCAMP* an online and intensive course that lasted 3 months where I learnt technologies such as: 
 
-Here are some ideas to get you started:
+ - HTML5
+ - CSS3
+ - JavaScript
+ - React JS
+ - Sass
+ - Node JS
+ - SQL
+ - GIT-GITHUB
+ - Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I up to now?
+I am working on my portfolio and also in learning new technologies and improving my coding logic on websites like codewars, hackerrank and frontendmentor.
+
+## Where can you find me?
+[Linkedin](https://www.linkedin.com/in/blanca-bigeriego/)
+blancabcbt@gmail.com
+Don´t hesitate to contact me if you need it!
+```
